@@ -4,7 +4,7 @@ This repository contains a multi-stage statistical data analysis workflow writte
 
 ### Leadership & Mentorship Role
 * **Project Mentor / Data Lead:** Actively managed and guided a 5-person student research cohort within the **Mount Royal University Research Mentorship Club**.
-* **Technical Oversight:** Architected the data cleaning pipeline, standardized categorical data filtering methodologies, and coached team members on interpreting Two-Way ANOVA interaction models and multivariate regressions.
+* **Technical Oversight:** Architected the data cleaning pipeline, standardized categorical data filtering methodologies, and mentored lower year academic pears on interpreting Two-Way ANOVA interaction models and multivariate regressions.
 
 ---
 
